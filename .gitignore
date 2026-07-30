@@ -1,0 +1,7 @@
+__pycache__/
+output/
+test_ngspice*/
+schematic.svg
+*.cir
+*.raw
+.env
